@@ -19,7 +19,12 @@ This PYTHON project is designed to efficiently preprocess, tokenize, and reverse
 git clone https://github.com/NoobPeen/python_text_search.git
 ```
 
-2)Go the directory of the project and run the following command
+2)download the dependencies
+```
+pip install -r requirements.txt
+```
+
+3)Go the directory of the project and run the following command
 ```
 python app.py
 ```
